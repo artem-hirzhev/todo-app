@@ -15,6 +15,7 @@ A simple ToDo App works as described below.
 
 Technologies were used:
  - React;
+ - TypeScript;
  - JS;
  - HTML;
  - CSS.
